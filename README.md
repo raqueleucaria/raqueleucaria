@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dace18&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raquel+Eucaria;I+study+Software+Engineering;Be+Welcome!)](https://git.io/typing-svg)
 
@@ -11,37 +10,17 @@
 
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="C" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" >
-  <img align="center" alt="VSCode" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" >
+  <img align="center" alt="django" height="30" width="30" src="https://youteam.io/blog/wp-content/uploads/2022/06/django-icon-0.png">
+  <img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Postgresql" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">
+  <img align="center" alt="mysql" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-3628940-3030165.png?f=webp">
   <img align="center" alt="Linux" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" >
   <img align="center" alt="Windows" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-  <img align="center" alt="Figma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" >
-  <img align="center" alt="Github" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  >
   
 </div>
 
 
-<div align="center"> 
- 
-  ![Snake animation](https://github.com/raqueleucaria/raqueleucaria/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raqueleucaria&theme=algolia&column=6&margin-w=15&margin-h=15" />
-  <!-- Sem cor de fundo
-  <img src="https://github-profile-trophy.vercel.app/?username=raqueleucaria&theme=algolia&row=2&no-bg=true&column=6&margin-w=15&margin-h=15" />
-  -->
-</p>
 
 ##
 
@@ -50,4 +29,3 @@
 </div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dace18&height=120&section=footer"/>
