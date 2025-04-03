@@ -9,18 +9,6 @@
 </div>
 
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="django" height="30" width="30" src="https://youteam.io/blog/wp-content/uploads/2022/06/django-icon-0.png">
-  <img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Postgresql" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">
-  <img align="center" alt="mysql" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-3628940-3030165.png?f=webp">
-  <img align="center" alt="Linux" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" >
-  <img align="center" alt="Windows" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-  
-</div>
-
-
 
 ##
 
