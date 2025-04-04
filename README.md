@@ -1,7 +1,4 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raquel+Eucaria;I+study+Software+Engineering;Be+Welcome!)](https://git.io/typing-svg)
-
-
 <div align="center">
   <a href="https://github.com/raqueleucaria">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=raqueleucaria&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
